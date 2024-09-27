@@ -2,3 +2,20 @@ body{
     background-color: aqua;
     
 }
+table{
+    background-color: chartreuse;
+    border-radius: 10px;
+    border-color: rgb(42, 95, 165);
+    border-style: groove;
+    border-width: 10px;
+    color: black;
+    
+}
+h1{
+    background-color: cornflowerblue;
+    color:black;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}

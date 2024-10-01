@@ -1,0 +1,22 @@
+.fitems{
+    width: 100px;
+    height:100px;
+    background-color: yellow;
+    color: rgb(8, 16, 127);
+    font-size:20px;
+    border-radius: 10px;
+    border-color: rgb(38, 231, 28);
+    border-width: 10px;
+    border-style:groove;
+    margin:20px;
+   
+}
+.container{
+    display: flex;
+     /* flex-direction: row-reverse;  */
+    justify-content: center;
+}
+#item1{
+    order:2;
+
+}
